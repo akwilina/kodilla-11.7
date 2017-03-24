@@ -1,0 +1,16 @@
+{
+  "name": "zad11.7",
+  "version": "1.0.0",
+  "description": "kodilla task 11.6\r Country search engine",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint js/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-plugin-dollar-sign": "^1.0.0",
+    "eslint-plugin-jquery": "^1.1.1"
+  }
+}
