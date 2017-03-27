@@ -31,7 +31,6 @@ function setupCards(col, cards) {
     });
 }
 
-// OGÓLNA FUNKCJA
 function randomString() {
     var chars = "0123456789abcdefghiklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXTZ".split();
     var str = "", i;
